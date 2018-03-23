@@ -15,5 +15,4 @@ set the font size of the form elements to at least 16px
 
 ## Avoid Rubber band scrolling
 
-http://blog.christoffer.me/six-things-i-learnt-about-ios-safaris-rubber-band-scrolling/
-
+https://github.com/RyukyuInteractive/mobile-web/wiki/scrolling-menu-on-iPhone
